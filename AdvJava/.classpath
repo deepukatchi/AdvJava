@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Java_Info/database/h2-2018-03-18/bin/h2-1.4.197.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
