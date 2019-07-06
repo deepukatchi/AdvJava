@@ -19,7 +19,8 @@ package com.UploadToGit.Jdbc;
 				if (i > 0) {
 					System.out.println("Record has been deleted successfully.");
 				}
-			} catch (SQLException e) {
+			} 
+			catch (SQLException e) {
 				e.printStackTrace();
 			}
 		}
